@@ -1,5 +1,5 @@
 export * from './AppLogo'
-export * from './PageStrcuture/Footer'
-export * from './PageStrcuture/Header'
-export * from './PageStrcuture/Main'
+export * from './Controls'
+export * from './PageStructure/Header'
+export * from './PageStructure/Main'
 

@@ -7,6 +7,12 @@
         "default_popup": "index.html"
     },
     "permissions": [
+        "activeTab",
+        "tabs",
         "scripting"
+    ],
+    "host_permissions": [
+        "http://*/*",
+        "https://*/*"
     ]
 }
