@@ -1,8 +1,12 @@
 {
+    "$schema": "https://json.schemastore.org/chrome-manifest",
     "manifest_version": 3,
     "name": "Speed Up Video Playback",
     "version": "0.0.1",
     "action": {
         "default_popup": "index.html"
-    }
+    },
+    "permissions": [
+        "scripting"
+    ]
 }
